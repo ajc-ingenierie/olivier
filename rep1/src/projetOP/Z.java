@@ -4,7 +4,7 @@ public class Z {
 
 	public void affiche(){
 		
-		System.out.println("Coucou Pierre! ");
+		System.out.println("Coucou Pierre! Enc*** ");
 		
 	}
 	
